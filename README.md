@@ -4,6 +4,8 @@
 
 This project demonstrates a simple DevOps workflow for deploying a containerized web application on AWS. The application is packaged using Docker with Nginx as the web server and hosted on an AWS EC2 instance, making it accessible via the instance’s public IP address.
 
+I got the source code from udemy course by Pianalytix - https://www.udemy.com/course/devops-deployment-projects-with-docker-kubernetes-aws/learn/
+
 ---
 
 ## 🛠️ Technologies Used
